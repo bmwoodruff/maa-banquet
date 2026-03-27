@@ -1,0 +1,204 @@
+---
+title: "The Power of a Grimace"
+subtitle: " How One Banquet Changed My Classroom"
+author: "Ben Woodruff"
+format: 
+  revealjs:
+    theme: default
+    transition: slide
+    slide-number: true
+    chalkboard: true
+    footer: "MAA Intermountain Section Banquet 2026"
+---
+
+## Why I joined math
+
+* I love math.
+* My peers hated it. 
+* We have a shortage of engineers and scientists. 
+* This is a problem I could solve.... Or so I thought.
+* My apprenticship of observation.
+* I wanted to help people stay who had alredy chosen STEM.
+* In Provo as a grad student I got to teach multivariable. One third of the students were failing.  I was concerned. Department chair told me not to worry, it was normal. 
+* I came to BYU-I. A similar pass rate was here. 
+* One semester we pasted pass rates of class around the department work room.  Multivariable was the worst.  I had a mission, find a way to fix that pass rate. 
+* I had long given up on "the students" are the problem. Maybe we just hadn't figured good way to teach them. I tried all kinds of things.  Making high quality power points. Reorganizing material. Adding extra prep assigments. More group discussions in class. Nothing touched it. 
+* Student would of say, "I didn't know what the test was asking" despite the questions being the exact same as the ones they did for homework.  This was the problem. 
+* At SUU in 2011, we invited Ted Mahavier to come speak about the Modified Moore Method. 
+* He described how Inquiry Based Learning could be a transformative experience to help students. 
+* He had just finished publishing a calculus text for all three semester that followed a Modified Moore Method. 
+* His talk, text, experience, gave me the courage to give it a try.  I was terrified. Would the students actually come to class prepared to share things?  What happens if no one works? How do I manage class when they share something completely off topic?  How do I help guide them?  
+* I decided to use his work to teach Calc I and II. It was amazing. Calc II had a really rocky start, but they got in a grove and it went great despite a slow start. Calc I started off great, and then we hit the optimization section and the problems completely stalled the class (their algebra skills were not ready to solve the types of the problems in Ted's book).
+* I was super excited about how things had been going.  I reviewed Ted's work for Calc III, and decided to create my own problem set instead of using his.
+* Calc III was amazing. I'd gotten over the fears. 
+* Student pass rate went from 66% to 94% that first semesterm, with exam score up a standard deviation.  The second semester I ran the class, I had two sections. One section bought in, prepared, and we finished with a pass rate of 85%, and again exams were a whole standard deviation higher than pre IBL.  I've seen pass rates in the 85-95% range for the last 15 years. The other section did not buy in.  Most days of class I would call for people to present and ended up having the same 3-5 students present. I was terrified how it would end up.  With the "do no harm" idea in hand, I was worried I'd done real harm. Nope.  First exam came in and the score parrallel almost exactly what they were before IBL.  Same thing happened all semester.  The grade distribution matched pre IBL.  I had "done no harm".  Over the last 15 years, I've seen this dichotomy occur.  Most semesters, the students buy in and the pass rate is high. Occasionally, the students don't buy in.  I still haven't cracked this problem.  I've rewritten the problem set several times to try and fix it. 
+* One problem was "can another teacher relicate this"? Depends. Curtis Martin joined us at BYU-I and decided to give it a try after asking around. I asked him one question before the first exam, "how many people do you have to call before you get a full list of presenters". He answered in a way that told me his class came prepared. I prediced the higher exam average.  We graded exams together for several years, and both saw the same high prep/high grade, low prep/third fail phenomen. 
+
+* I ended up writing IBL problem sets for intro to proofs, abstract algebra, PDEs, ODEs, linear algebra, and more. One semester I tried to write 3 problems sets at the same time.  Don't do that.  It was a bad idea that led to 90+ hour work weeks.  
+
+* My take away from IBL is that it's important to have a productive struggle. The students post IBL rarely say  "I didn't know what the problem was asking on the test." Instead, I've heard "I knew what it was asking, and I knew I hadn't worked enough to know how to do that fully." The students struggle through learning a new language, and in that process they have to work through the meaning.  I find it fascinating that focusing on a few problems, that they get to struggle through on their own, led to a higher performance than repetition with a lots of problems that I gave them a pattern for how to solve.  Performance on the repetitive task was higher when they focused on struggling through a few instead of doing lots of mimicing. 
+
+* Starting around 2016 or so, I was discouraged with my assessment structure. The IBL mantra I started class with was "Try Everything".  "I messed up last night, I lost another fight, I'll just get up and try again." "Birst dont' just fly, they fall down, and get up."  We've been playing that song again and again since. 
+* The entire course encouraged making mistakes, learning from them without penalty, and growing, with one exception.  If you mess up on an exam, then it's not OK.  The class focused on cultivating a growth mindset.  The assessment structure fought against it. 
+* I honestly thought that I had to give traditional midterms and final exams.  
+* In my upper division courses, I justified the exam process by saying "The students need to be ready to pass a qualifying exam when they get to grad school."
+* I didn't have a good reason in multivariable calculus, other than I didn't know anything else.  Tradition!
+* In steps the Data Science major. J. Hathaway had already decided firmly that the DS group would use a different method of grading.  The classes would focus on projects and tasks.  To get a specific grade, you needed to complete so many tasks and so many projects.  That was it.  Complete them.  If you submitted someting that wasn't complete, you got to revise and resubmit. The class boiled down to a binary system for every task. 
+
+* COVID hit and I took a sabbatical to study alternative assessment strategies. I read lots of books, went to virtual conferences, and built new assessments. Some highlights.
+* Punished by rewards by Alfie Kohn and the rebuttal by ... Use a binary grading system. The fewer steps in the evaulation structure, the better. It's either done, or it's not. 
+* Specifications grading
+* Robert Talbert's Blog
+* The Grading Conference - Mostly math and chemistry folks, which interestingly enough is precisely the same crowd at IBL conferences.   
+* I also added in something new - Self-directed learing projects.  The key word is androgogy (later I learned about and heutogogy). I wanted to enable the students to put assessment in their own hands. 
+
+* "Make one wrong move and you're done for". A student today described her experience with traditional assessment in math as "if I make one mistake, I can't fix things". In my mind came the song described from Epic the Musical. 
+* For me this is the clincher.  When we provide high stakes exams as the assessment tool, we create fear of making mistakes.  We penalize any tiny error. And the penalty amount is arbitrary from class to class, as each instructor can set a rubric the way they hope to assess.  In one class I took as a student, I wanted to type my take home exam up for the teacher, to simplify reading it.  I copy/pasted one line in a computation and forgot to update a negative on that line (but it was fixed everywhere else).  I got a zero on that 10 point problem. Ouch!  And then in other classes such a mistake is overlooked and no penalty attached. And you have no idea how to know what the assessment structure will be until you've been hit with it.  Talk about fear. High stakes, going in blind..  "Make one wrong move and you're done for."
+
+* So I migrated to a specifactions based system.  This required I spell out precisely what objectives I will assess in my class. I built a quiz structure to assess students, with a quiz that grows in size every week. Let's look at week 2's quiz, then week 9's quiz, then week 14's quiz.  The quiz becomes a monster in size, but students only need to work on the learning targets/objectives that they haven't yet passed in a prior week.  This provides a binary grading system of complete/not yet. I provide a key after each quiz that the students can immediately access. I have the students tell me which they passed (have the answer on the key), and which they believe are a possible pass (they solve the problem differently, dropped a negative or some other basic arithmetic error). My TA reviews their work, updates grades, and consults me when they are not sure about how to grade one.  It's quick.  At the end of the day, I ask myself "Is there more the student needs to learn from redoing this objective?" If their work shows there is something still work learning, then they get a Not Yet. 
+
+* Some questions I get asked?  
+* How long does this take?  The first semester was quite intense because I had to build the entire structure. But now I have a large bank of problems (and AI has helped increase it). Grading is quick.  Yes, each student could theoreticall submit 10+ problems per week, but it's more like 5-6 the first time I add objectives to the quiz, and then drops off from there as people demonstrate competency. I know of some teachers who use WebWorks to set up the entire quiz structure, which allows students to practice the quiz before taking it in a proctored environment. I honestly think we're not far away from AI helping with this structure and allowing a student to practice precisely the topics they are struggling with as they prepare for the next quiz. 
+* What's the grade distrubition like?  Is it bimodal?  Well, yes and no.  I only decide if a student has demonstrated they are ready to pass the class or not, so my choice is Bimodal (C/F).  The students themselves then decide what grade they want to work towards. I do this through self-directed learning projects.  And the response varies. Those students who want to work to get an A do it.  And some are perfectly happy with a C.  And some want to get a B. The distribution fluctuates from semester to semester. I've had one with mostly A's.  I've had one with more Cs. Some students are happy to pass, and don't want to do anything more. 
+* What do self-directed learning projects look like?  
+** I have a data science student this semester who devoted most of his SDL projects to visualizing neural networks. 
+** I have an EE major who built a roller coaster in desmos for the motion unit (practicing with parametrizations). 
+** I had a group of students the first time I ran this who decided to build a Christmas tree using parametric surfaces, along with all the decorations and more. 
+** I have a student this semester who wanted to expore AI video generation and created a video of LeBron James teaching about Lagrange Multipliers. She was quite disappointed with the free tools, but she had to create a lesson plan and then orchestrate how to have AI build it.
+** Another student this semeseter loves music and wanted to create a song to help teach about polar coordinates. 
+** Lots of students use the SDL project to answer "How does this apply to my major".  Some use it to study the history behind a topic (like eigenvalues and the second derivate test). Some use it to practice writing code. One student this semester has been writing C++ libraries for the content we're learning. Some use AI, some don't. One student this semester has been building a full visualization sweet for every topic of the semseter, using the Tkinter interface from python. His work is comparable to the Manipulate features in Mathematica, and I want to explore his projects myself once this talk is over. 
+** Another student leveraged AI to build a frisbee golf game that encompasses most of topics from the semester. He started with another class member on the project, but then got super excited and went way over board. The original plan was just to work with parametric curves, but then he added new coordinate system, level curves and surface plots, and more. He learned why vibe coding causes production problems when you have a monolithic huge file that hasn't been properly refactored because you had no idea what you wanted when you started. This led him to learn about using GitHub education to get free CLI access to Claude Code.
+
+* What goes into an SDL? It's a 5-8 hour project. They need (1) a goal of what you want to learn and how it connects to the unit, (2) a plan of what you will do and how you will carry it out, and (3) a way to share what you learned, which is often just a post on a class discussion board, but some put their work on GitHub, Instagram, YouTube, LinkedIn, etc. They are in charge of the entire process from designing the goals, outcomes, plan, and even assessment. They submit a proposal, and then I either approve it or give feedback and ask them to revise.  One student suggested a coding activity and that they hoped to use AI to help them.  I copy/pasted their goal into Gemini, and it completed the entire project in about 2 seconds.  So I pushed back to the student and asked them what else they wanted to do. It was a productive discussion. 
+
+So that's where I'm at. 
+1. IBL helped solve a problem of low pass rates. I don't think IBL is required.  I personally believe the issue is that to learn a topic, we need a productive struggle with that topic. As teachers we often present the tough topics and then the students spend their time repeating what we showed them rather than taking the time to struggle through the logic. If we're not careful, we may rob them of precisely the stuggle they need to succeed.  
+2. 
+
+
+What worrries me about AI is that it may remove from the students precisely the struggle that IBL helped created. I have already seen many students present material in class where, when asked a question, their answer is "AI said so".  It's not that much different than "the tutor said so" from 3 years ago, but it's more common now. That's giving me a signal that something needs to change. They are going to use AI to get help.  How can I leverage this amazing tool to help them learn.  How can I use the fact that they can now create before they remember or understand, and then use those creations to gain understanding. I think IBL is poised to do this in an amazing way, I'll just need a new set of questions/tasks/things to explore, and I can probably remove a lot of the intermediate stepping stones I've used in the past and then let students explore more. I'm actually excited about this. 
+
+Last summer I wanted to practice vibe coding.  I teach children songs on Sunday at my local church. They had a new song with some tricky rythym that they needed to know.  My co music leader had a hand game she used to help clap out the rythym. I left that day thinking "I bet AI could write a GuitarHero style game that uses the handbells we have in the closet".  So I went home, and vibe coded the project. My goal was to use plain english as much as possible to build the entire project. Here's the most recent iteration.
+
+OK, so what does this have to do with math? Well, the hit detection engine works great when a single person sings into the device that is playing the song. BUT, when you put this in a room with 20 bells ringing and 30 people singing, it's terrible.  Why?  The algorithm for sound detection is not built for that.  So I got to spend the next week exploring all kinds of sound detection systems.  None of the alorightms ChatGPT wrote dealt with the problem reliably.  And I could read the code it wrote with each iteraction and learn exactly how many different sound detection systems worked.  Let's look at the FFT live stream of this current talk. 
+
+This is a fun math problem.  It showed up precisely in the middle of something I wanted to create. The algorithms given to me by AI were insufficent to solve this problem (can you think of an open source project designed to detect bells from 20 kids, along with their voices, run in real time, etc.)  It's a problem I want to play with more and hopefully use in a class where we study the FFT. Since building that, I've created an image sorter game (order the song) and a flip chart generator (for when we don't have technology and need to sing in front of a group). 
+
+AI has flipped Bloom's taxonomy upside down.  Students can create long before they know anything about a subject.  In the past we used "create" as the ultimate check point to see if a student has learned something.  Now they can start there with zero understanding. But this is super cool as then the students can work with things they created to explore the actual topic, learn what makes it tick, modify little bits, etc.
+
+I want to end with one more example. Jason Rose asked me to be a guest lecturer for our intro to mathematical sciences course.  I had 60 minutes to share with the students something they would find interesting and could look forward to if they wanted to pursue the math major rather than stats or data science.  I really wanted to share with them a Hawaiian earing. I decided to start with modular arthmetic, Caesar ciphers, and from that work towards the Hawaiian earring.  I was trying to add in an abstract algebra plug, without using too much terminology.  My plan, have Gemini build cryptography encryption/decryption code.  It took a single sentence to have the students generate a simple cipher for 26 letters.  Multiple students in the room had never coded, never used python, and never used AI. In 20 minutes, these students had taken the simple cipher code, added a sequence of keys to create a polyalphabetic ciper, then introduced an AtBash flip (reverse the alphabet) and generate working code that matched all the examples we created by hand.  They saw how worked out examples enabled Gemini to correctly work through inserting the AtBash into the code.  They had a fairly robust encryption system built. We ended by showing how the cryptosystem could be displayed in a graph (cayley graph introduction), and then discussed what would happen if you had an infinitely long key (infinite free group).  I was super happy that many students left feeling excited and empowered with a new view of AI coupled with Python in Google Colab.
+
+I'm excited to explore this new path forward in education, coupled with LLMs.  I think we have a bright future ahead. I'm excited to see how our MAA community uses these tools to continue to improve education.  Thank you. 
+
+
+
+What a long mess... 
+
+What are the key things?
+
+IBL transition
+* Problem: Low pass rates.  
+* Solution Attempts:  Lots of failed attempts. I think it's worth mentioning them. It's shows that this is part of the process. 
+* Final Solution:  IBL.  I first encounted it at USU, not from a teacher but from a friend who was in the class. It was so different from anything I'd ever tried. I'd attempted to insert bits of the Moore into classes prior to this, but those attempts all were a disaster. The entire class needed to be designed differently.   Thank you MAA for getting me the support I needed. 
+
+* Problem: The assessment structure sent the opposite message than IBL. 
+* Attempted Solution:  Justify tradition. This led to a life changing grimace. 
+* Solution: Alternative assessments, specifications grading.
+* Another Solution: Self-Directed learning projects. 
+
+* Problem: AI is removing the productive struggle that I believe is central to IBL. 
+* Possible Solution: Flip Bloom's taxonomy. Invert the pyramid.  Use the "create" part to build understanding. Build multiple things and have AI analyze the similarities and differences. Then have the students engage at this level. Rethink education.
+* Solution: Work together as a community.
+
+
+
+
+
+
+---
+
+
+## Tradition! {background-color="#1a1a1a"}
+
+> "And how do we keep our balance? That I can tell you in one word. Tradition!"
+> - *Fiddler on the Roof*
+
+> "You may ask, how did this tradition get started? I'll tell you. I don't know!" 
+> - *Fiddler on the Roof*
+
+* I want to include an image here.
+* Video (https://www.youtube.com/watch?v=kDtabTufxao&t=46s)[Tradition]
+* The MAA common vision https://maa.org/resource/common-vision/  *The status quo is unacceptable.*  A nice image of this would be better than just a word. 
+* Apprenticship of observation - Recent conversation.
+
+
+---
+
+## The 2019 Banquet
+### The "Grimace" Heard 'Round the Table
+
+* **The Scene:** Discussing upper-division assessment.
+* **The Defense:** "We have to prepare them for grad school exams!"
+* **The Catalyst:** A colleague's candid, unintentional reaction.
+* **The Realization:** My "rigor" was just "tradition."
+
+---
+
+## The Bottleneck
+### Multivariable Calculus (215)
+
+* **The Problem:** 2/3 pass rate as "normal."
+* **The Attempt:** Better slides, more group work, minor tweaks.
+* **The Failure:** Surface-level changes don't fix structural problems.
+
+---
+
+## The Pivot: Inquiry-Based Learning (IBL)
+
+* **The Fear:** Will they actually prepare?
+* **The Reality:** Amazing student engagement.
+* **The Lesson:** Learning happens in the *struggle*, not the *lecture*.
+
+---
+
+## Grading for Growth
+### Alternative Assessment Models
+
+| Traditional | Specifications |
+| ----------- | -------------- |
+| Points & Percentages | Complete / Incomplete |
+| High-Stakes Finals | Iterative Feedback |
+| One Chance | Infinite Retakes |
+
+* *Reference:* Linda Nilson & Clark/Talbert.
+
+---
+
+## The New "Hiccup": LLMs
+### Bloom’s Taxonomy Flipped
+
+* **Old Tradition:** We spent weeks teaching them to "Remember" and "Understand" so they could one day "Create."
+* **New Reality:** AI starts at "Create."
+* **The Shift:** Our job is now helping them move *down* the pyramid to Evaluate and Analyze.
+
+---
+
+## Fun with Math & Code
+### The "Guitar Hero" Experiment
+
+* Using GPT to build a side-scrolling music game for children.
+* **The Result:** High engagement, hidden math, and broken traditions.
+* [Insert Video/Demo Here]
+
+---
+
+## Conclusion: A New Tradition
+
+* What is the "Productive Struggle" in 2026?
+* Scaling the "Impossible": Personalized, infinite retakes.
+* **Final Thought:** Let's build traditions by design, not by default.
+
+---
+
+## Thank You!
+### Questions?
